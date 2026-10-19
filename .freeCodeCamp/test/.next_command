@@ -162,3 +162,4 @@ echo 'read NAME' >> script.sh
 echo 'echo Hello $NAME' >> script.sh
 echo 'bad_command' >> script.sh
 ./script.sh
+echo "TuNombre"
