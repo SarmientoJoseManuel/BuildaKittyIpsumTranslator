@@ -246,3 +246,4 @@ touch translate.sh
 chmod +x translate.sh
 echo '#!/bin/bash' > translate.sh
 echo 'cat $1' >> translate.sh
+./translate.sh kitty_ipsum_1.txt
