@@ -163,3 +163,4 @@ echo 'echo Hello $NAME' >> script.sh
 echo 'bad_command' >> script.sh
 ./script.sh
 echo "TuNombre"
+echo "TuNombre"
