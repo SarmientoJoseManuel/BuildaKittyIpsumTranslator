@@ -155,3 +155,4 @@ cat < name.txt
 echo cat
 echo $NAME
 echo "TuNombre"
+touch script.sh
