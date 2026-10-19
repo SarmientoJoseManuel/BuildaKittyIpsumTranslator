@@ -254,3 +254,4 @@ echo -e '#!/bin/bash\n\ncat $1 | sed '\''s/catnip/dogchow/'\''' > translate.sh
 ./translate.sh kitty_ipsum_1.txt
 __vsc_prompt_cmd_original
 ./translate.sh kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt
