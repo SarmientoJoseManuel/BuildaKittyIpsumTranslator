@@ -272,3 +272,4 @@ echo -e '#!/bin/bash\n\ncat $1 | sed -E '\''s/catnip/dogchow/g; s/cat/dog/g; s/m
 ./translate.sh kitty_ipsum_1.txt > doggy_ipsum_1.txt
 cat doggy_ipsum_1.txt
 diff kitty_ipsum_1.txt doggy_ipsum_1.txt
+man diff
