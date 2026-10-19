@@ -156,3 +156,4 @@ echo cat
 echo $NAME
 echo "TuNombre"
 touch script.sh
+chmod +x script.sh
