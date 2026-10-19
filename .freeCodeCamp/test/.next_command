@@ -251,3 +251,4 @@ echo 'cat $1' >> translate.sh
 cat kitty_ipsum_1.txt
 echo -e '#!/bin/bash\ncat $1 | sed "s/catnip/dogchow/g"' > translate.sh
 echo -e '#!/bin/bash\n\ncat $1 | sed '\''s/catnip/dogchow/'\''' > translate.sh
+./translate.sh kitty_ipsum_1.txt
