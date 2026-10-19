@@ -267,3 +267,4 @@ echo -e '#!/bin/bash\n\ncat $1 | sed '\''s/catnip/dogchow/g; s/cat/dog/g; s/meow
 ./translate.sh kitty_ipsum_1.txt
 echo -e '#!/bin/bash\n\ncat $1 | sed -E '\''s/catnip/dogchow/g; s/cat/dog/g; s/meow|meowzer/woof/g'\''' > translate.sh
 ./translate.sh kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt
