@@ -165,3 +165,4 @@ echo 'bad_command' >> script.sh
 echo "TuNombre"
 echo "TuNombre"
 echo "TuNombre"
+./script.sh < name.txt
